@@ -1,4 +1,4 @@
-# gorev1_video
+# gorev1
 
 İlk kodlama görevinizde bir video dosyası üzerinde çalışacaksınız. Sizlere verilen yeşil arka plana sahip videoda kırmızı bir daire yukarıdan aşağıya doğru hareket etmektedir.
 Sizlerden istenen görev, daire yukarıdan aşağı inerken aşağıdaki görüntüde belirtilen “Av: Hedef Vuruş Alanı" içinde bulunduğu süre boyunca terminalde 
